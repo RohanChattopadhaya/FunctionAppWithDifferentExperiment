@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionAppWithDifferentExperiment", "FunctionAppWithDifferentExperiment\FunctionAppWithDifferentExperiment.csproj", "{BF0876E5-028D-48DB-A29F-79AB008876C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DurableFunctioncheck", "DurableFunctioncheck\DurableFunctioncheck.csproj", "{248ED977-7CFE-42BB-B8B0-C7DD933C098A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF0876E5-028D-48DB-A29F-79AB008876C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF0876E5-028D-48DB-A29F-79AB008876C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF0876E5-028D-48DB-A29F-79AB008876C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF0876E5-028D-48DB-A29F-79AB008876C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{248ED977-7CFE-42BB-B8B0-C7DD933C098A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{248ED977-7CFE-42BB-B8B0-C7DD933C098A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{248ED977-7CFE-42BB-B8B0-C7DD933C098A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{248ED977-7CFE-42BB-B8B0-C7DD933C098A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {588B7F92-86C3-40FB-862D-9F8984880D86}
+	EndGlobalSection
+EndGlobal
